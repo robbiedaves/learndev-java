@@ -7,6 +7,12 @@ Below is a list of topics I want to cover in this learning / tutorial project.
 
 [learndev-java-web](learndev-java-web/)
 
+Note: Here is a great Video and Mindmap of what to learn for Web Development 2016/2017 : 
+[Video](https://www.youtube.com/watch?v=sBzRwzY7G-k&t=57s)
+[Mindmap](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
+
+
+
 ### Java
 - Java Structure
 - Operators and Statements
