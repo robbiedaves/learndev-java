@@ -3,7 +3,9 @@
 
 Below is a list of topics I want to cover in this learning / tutorial project.
 
-[xxx](learndev-java-web/README.md)
+[README.md](learndev-java-web/README.md)
+
+[learndev-java-web](learndev-java-web/)
 
 ### Java
 - Java Structure
